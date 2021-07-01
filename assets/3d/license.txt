@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rimac C2(Nevera)
+* source:	https://sketchfab.com/3d-models/rimac-c2nevera-42a4c50ff27f4c3e95f725384b9d429c
+* author:	ishaknapitupulucxr2 (https://sketchfab.com/ishaknapitupulucxr2)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rimac C2(Nevera)" (https://sketchfab.com/3d-models/rimac-c2nevera-42a4c50ff27f4c3e95f725384b9d429c) by ishaknapitupulucxr2 (https://sketchfab.com/ishaknapitupulucxr2) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
